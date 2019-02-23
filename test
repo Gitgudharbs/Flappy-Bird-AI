@@ -1,0 +1,11 @@
+int x =100;
+int d =-1;
+
+void setup(){
+  size(340,480);
+}
+
+void draw(){
+  background(155);
+  ellipse(x,100,50,50);
+}
